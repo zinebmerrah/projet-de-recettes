@@ -1,0 +1,54 @@
+*{
+          padding: 0;
+          margin: 0;
+      }
+      .card{
+         background-color: #FFF3D5; 
+      }
+      .btn{
+          background-color: #554e43;
+          border-color: #554e43;
+          color: white;
+      }
+      .btn:hover{
+      background-color: #B99B6B;
+      border-color: #B99B6B;
+      }
+      h2{       
+          padding: 3%;
+          text-align: center;
+          color: black;
+          font-size: 3.5em;
+          align-items: center;
+          text-shadow: 2px 2px 4px #D5CAAF;
+      }
+      
+      .form-control{
+          background-color: #B99B6B;
+          width: 30%;
+          border-color: #554e43;
+      }
+      #carte{
+          padding: 3%;
+      }
+      #position{
+          background-image: url(https://look-travels.com/wp-content/uploads/2022/06/Meilleurs-sites-de-cuisine-pour-les-personnes-trop-occupees-pour.jpg);
+          padding: 2%;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+      }
+      #select{
+          background-image: url(https://look-travels.com/wp-content/uploads/2022/06/Meilleurs-sites-de-cuisine-pour-les-personnes-trop-occupees-pour.jpg);
+          height: 50vh;
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+          align-items: center;
+      }
+      .form-select{
+          width: 30%;
+          height: 14%;
+          background-color: #B99B6B;
+          border-color: #554e43;
+      }
